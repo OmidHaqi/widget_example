@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:widget_simple/res/themes.dart';
 import 'package:widget_simple/widgets/layout_builder.dart';
 
-void main() {
+void main(){
   runApp(const MyApp());
 }
 
@@ -69,6 +69,7 @@ class HomePage extends StatelessWidget {
                     ),
                     trailing: const Icon(Icons.build),
                   ),
+                  
                 ],
               ),
             ),
