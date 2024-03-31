@@ -1,4 +1,4 @@
-# widget_simple
+# widget_example
 
 A new Flutter project.
 
