@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       ),
     );
     return MaterialApp(
-      title: 'Widget simple',
+      title: 'Widget example',
       darkTheme: darkTheme(),
       theme: lightTheme(),
       debugShowCheckedModeBanner: false,
